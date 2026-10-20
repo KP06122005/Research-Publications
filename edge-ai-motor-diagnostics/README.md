@@ -1,4 +1,5 @@
 # Edge AI-Based Real-Time Fault Diagnostics for Industrial Motors Using Lightweight Neural Networks
+<img width="1184" height="864" alt="Gemini_Generated_Image_4sych44sych44syc" src="https://github.com/user-attachments/assets/0d85c874-b9af-485d-848d-d461a5798e3b" />
 
 ## Publication
 
